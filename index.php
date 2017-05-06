@@ -18,8 +18,8 @@
 				
 				?>
 		  <tr>
-		    <td>For data scientists</td>
-		    <td>For IT professionals</td>
+		    <td><h3>For data scientists</h3></td>
+		    <td><h3>For IT professionals</h3></td>
 		  </tr>
 		  <tr>
 		    <td>
