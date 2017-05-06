@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PC1CADILLOC1
+  host: PC1CADILLOC1
+  disk_quota: 1024M
